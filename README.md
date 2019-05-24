@@ -4,36 +4,22 @@ You can use the tomcat apache server to create a database
 download tomcat server by clicking on this link
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a way to install the tomcat server and store the data through java script
 
-### Markdown
+1.install tomcat by clicking on the link
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tomcat.apache.org/download-80.cgi
 
-```markdown
-Syntax highlighted code block
+2.install ecllipse by clicking on the link
 
-# Header 1
-## Header 2
-### Header 3
+https://www.eclipse.org/downloads/
 
-- Bulleted
-- List
+3.follow the steps given below:
 
-1. Numbered
-2. List
+–>open the ecllipse and select option “create for web developers and users”
 
-**Bold** and _Italic_ and `Code` text
+–>open the ecllipse and click on “new”
 
-[Link](url) and ![Image](src)
-```
+–>then click on “start a new dynamic web project”
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manish1404/servlets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3.you can review the instructions below and continue with servlets..
