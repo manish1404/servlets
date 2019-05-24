@@ -1,6 +1,8 @@
 ## Welcome to java-servlets
 
-You can use the [editor on GitHub](https://github.com/manish1404/servlets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the tomcat apache server to create a database
+download tomcat server by clicking on this link
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
